@@ -59,7 +59,7 @@ Rentaro combines a rental marketplace with tools for businesses to manage their 
 * Reusable frontend components
 * Backend APIs and service architecture
 
-🌐 [rentaro.ph](https://rentaro.ph) · [App Preview](https://app.rentaro.ph/preview)
+🌐 [rentaro.ph](https://rentaro.ph) · [Marketplace](https://market.rentaro.ph) · [Storefront](https://xenarentals.rentaro.ph)
 
 ---
 
@@ -149,13 +149,6 @@ My experience includes:
 * Mobile-first interfaces
 * Cross-platform product development
 
----
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateyocedric&show_icons=true&hide_border=true)](https://github.com/mateyocedric)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateyocedric&layout=compact&hide_border=true)](https://github.com/mateyocedric)
 ---
 
 ## 🤝 Let's Connect
