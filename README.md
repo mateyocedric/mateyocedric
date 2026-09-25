@@ -151,13 +151,11 @@ My experience includes:
 
 ---
 
-## 📊 GitHub
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateyocedric&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateyocedric&layout=compact&hide_border=true&theme=transparent" height="170" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateyocedric&show_icons=true&hide_border=true)](https://github.com/mateyocedric)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateyocedric&layout=compact&hide_border=true)](https://github.com/mateyocedric)
 ---
 
 ## 🤝 Let's Connect
